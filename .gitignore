@@ -6,7 +6,7 @@ composer.lock
 npm-debug.log
 .idea/
 workbench/*
-=======
+
 /bootstrap/compiled.php
 .env.*.php
 .env.php
